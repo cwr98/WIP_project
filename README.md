@@ -1,4 +1,4 @@
-﻿# DLR Aerial Crowd â€“ Event Detection
+﻿# DLR Aerial Crowd Event Detection
 
 This repo contains a geospatial ML pipeline using the **DLR Aerial Crowd Dataset**.
 
@@ -22,6 +22,7 @@ This repo contains a geospatial ML pipeline using the **DLR Aerial Crowd Dataset
 otebooks/\: exploration/prototyping
 - \experiments/\: configs, logs, metrics
 - \models/\: trained weights/checkpoints
-- \eports/\: figures & writeups
+- \
+eports/\: figures & writeups
 - \webapp/\: deployment (e.g., Streamlit)
 
