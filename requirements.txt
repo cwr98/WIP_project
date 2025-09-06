@@ -1,0 +1,23 @@
+﻿# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+tqdm
+pyyaml
+
+# Deep learning (pick one stack; both listed for flexibility)
+torch
+torchvision
+# tensorflow
+
+# Geospatial / imagery
+rasterio
+shapely
+
+# Experiment tracking (optional)
+mlflow
+
+# Web app (optional)
+streamlit
