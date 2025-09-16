@@ -19,10 +19,10 @@ This repo contains a geospatial ML pipeline using the **DLR Aerial Crowd Dataset
 - \data/processed\: model-ready data
 - \src/\: reusable pipeline + ML code
 - \
-otebooks/\: exploration/prototyping
+Notebooks/\: exploration/prototyping
 - \experiments/\: configs, logs, metrics
 - \models/\: trained weights/checkpoints
 - \
-eports/\: figures & writeups
+Reports/\: figures & writeups
 - \webapp/\: deployment (e.g., Streamlit)
 
